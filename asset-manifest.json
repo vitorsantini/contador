@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador/static/css/main.33761b9c.css",
+    "main.js": "/contador/static/js/main.95e109e0.js",
+    "static/media/check-mark.svg": "/contador/static/media/check-mark.53f24c0a28e150404896.svg",
+    "index.html": "/contador/index.html",
+    "main.33761b9c.css.map": "/contador/static/css/main.33761b9c.css.map",
+    "main.95e109e0.js.map": "/contador/static/js/main.95e109e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33761b9c.css",
+    "static/js/main.95e109e0.js"
+  ]
+}
