@@ -1,5 +1,4 @@
 import React from "react";
-import { deflate } from "zlib";
 import style from "./Botao.module.scss";
 
 interface Props {
